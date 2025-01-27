@@ -5,6 +5,7 @@
 ![таблица_размеров_1](https://github.com/user-attachments/assets/9bdab474-c578-498a-a8d9-39a7a32448cc)
 ![таблица_размеров_2](https://github.com/user-attachments/assets/0022d2ed-46aa-4e64-baca-05ffe7d77d83)
 ![таблица_размеров_3](https://github.com/user-attachments/assets/2f8c148b-aff1-4eda-a356-3ef9588daa95)
+![таблица_размеров_4](https://github.com/user-attachments/assets/f88f26d1-cc71-4ef4-b802-937d15fdfb44)
 
 ### 🔧 Функционал
 
