@@ -2,10 +2,10 @@
 
 **Smart Size Calculate** – это умный калькулятор размеров одежды, который помогает рассчитать `российские`, `международные`, `европейские`, `американские` и `британские` размеры на основе параметров тела.
 
-<img src="https://github.com/QuadDarv1ne/smart_size_calculate/blob/main/img/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_1.png" alt="Таблица размеров 1" width="600" />
-<img src="https://github.com/QuadDarv1ne/smart_size_calculate/blob/main/img/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_2.png" alt="Таблица размеров 2" width="600" />
-<img src="https://github.com/QuadDarv1ne/smart_size_calculate/blob/main/img/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_3.png" alt="Таблица размеров 3" width="600" />
-<img src="https://github.com/QuadDarv1ne/smart_size_calculate/blob/main/img/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_4.png" alt="Таблица размеров 4" width="600" />
+<img src="https://github.com/QuadDarv1ne/smart_size_calculate/blob/main/img/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_1.png" alt="Таблица размеров 1" width="600"/>
+<img src="https://github.com/QuadDarv1ne/smart_size_calculate/blob/main/img/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_2.png" alt="Таблица размеров 2" width="600"/>
+<img src="https://github.com/QuadDarv1ne/smart_size_calculate/blob/main/img/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_3.png" alt="Таблица размеров 3" width="600"/>
+<img src="https://github.com/QuadDarv1ne/smart_size_calculate/blob/main/img/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_4.png" alt="Таблица размеров 4" width="600"/>
 
 ### 🔧 Функционал
 
