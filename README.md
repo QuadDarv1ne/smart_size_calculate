@@ -69,24 +69,7 @@ python smart_size_calculate.py
 
 **После выполнения программа выведет что-то подобное:**
 
-```
-Добро пожаловать в калькулятор размеров.
-Данные успешно загружены:
-chest: 92 см
-waist: 74 см
-hips: 98 см
-height: 175 см
-
-Ваши размеры:
-RU: 44
-International: M
-EU: 50
-US: 10
-UK: 10
-Height Category: Regular
-
-Результаты сохранены в файл sizes_report.json.
-```
+![пример_вывода](https://github.com/user-attachments/assets/a38e72f9-d80c-44e7-91ed-635998c699ee)
 
 ---
 
